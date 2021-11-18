@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hamburg University of Applied Sciences
+    url: https://www.haw-hamburg.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Human-Computer Interaction
+      institution: Universität Hamburg
+      year: 2019
+    - course: M.Sc. in Computer Science
+      institution: Universität Hamburg
+      year: 2014
+    - course: BSc in Computer Science
+      institution: Carl-von-Ossietzky Universität Oldenburg
+      year: 2011
 superuser: true
 highlight_name: true
 title: Eike Langbehn
