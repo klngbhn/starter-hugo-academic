@@ -4,9 +4,9 @@ avatar_filename: foto-eike-2021.jpg
 bio: My research interests include mixed reality, game design and human-computer
   interaction.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mixed Reality
+  - Human-Computer Interaction
+  - Game Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +42,8 @@ highlight_name: true
 title: Eike Langbehn
 email: ""
 ---
+Eike Langbehn is Professor for Media Informatics at the HAW Hamburg since March 2021. His fields of work include XR and games. He studied Computer Science in Oldenburg and Hamburg and graduated with a PhD thesis about perceptual aspects of VR locomotion in 2019. In 2020, he co-founded Curvature Games, a Hamburg-based games studio that is specialised in narrative VR experiences. Since 2012, he has been working in the games industry as a programmer and game designer on titles for different platforms including web, mobile and VR.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Eikes research is focused on (3D) human-computer interaction in spatial environments. It is driven by the question how stories can be told in interactive media. He published in the most competitive conferences of the field including ACM SIGGRAPH and IEEE VR and is actively involved in the research community. Eike is regularly invited as a speaker at conferences and gatherings in the area of VR and game development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
