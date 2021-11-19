@@ -45,7 +45,7 @@ item:
   description: ""
   organization: ACM Symposium on Spatial User Interaction (SUI), Tokyo, Japan
   organization_url: https://sui.acm.org/2016/sigmr.vrsj.org/SUI2016/
-  title: Honorable Mention for Best Poster Award
+  title: Honorable Mention for Best Poster
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -54,6 +54,54 @@ item:
   organization: Deutsches Institut für Virtual Reality (DIVR), Gelsenkirchen, Germany
   organization_url: https://divr.de/award/
   title: Best Concept Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-09-01"
+  description: ""
+  organization: Mensch und Computer (MuC), Hamburg, Germany
+  organization_url: https://muc2019.mensch-und-computer.de/
+  title: Honorable Mention
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-10-01"
+  description: ""
+  organization: ACM Symposium on Applied Perception (SAP), Barcelona, Spain
+  organization_url: https://sap.acm.org/2019
+  title: Best Presentation Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-11-01"
+  description: ""
+  organization: nextReality.Contest (XRC), Hamburg, Germany
+  organization_url: https://nextrealitycontest.de/
+  title: Best Innovation Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-03-01"
+  description: ""
+  organization: IEEE Virtual Reality, Los Angeles, California
+  organization_url: https://nextrealitycontest.de/
+  title: Scholarship within the DAAD congress travel program
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2018-08-01"
+  description: ""
+  organization: ACM SIGGRAPH, Vancouver, Canada
+  organization_url: https://nextrealitycontest.de/
+  title: Scholarship within the DAAD congress travel program
+  url: ""
+- certificate_url: ""
+  date_end: "2017-04-01"
+  date_start: "2017-02-01"
+  description: ""
+  organization: University of Central Florida, Orlando, Florida
+  organization_url: https://nextrealitycontest.de/
+  title: Fellowship within the DAAD FITweltweit program
   url: ""
 
 design:
