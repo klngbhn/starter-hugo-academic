@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2015-01-25"
   description: ""
-  organization: Coursera
+  organization: Eurographics Symposium on Virtual Environments (ICAT-EGVE), Kyoto, Japan
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: "Best Poster Audience" Award
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
