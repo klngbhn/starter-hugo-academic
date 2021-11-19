@@ -1,7 +1,8 @@
 ---
 role: Professor for Media Informatics
 avatar_filename: avatar.jpg
-bio: My research interests include mixed reality, game design and human-computer
+bio: I am Professor at HAW Hamburg and Co-Founder of Curvature Games. My
+  research interests include mixed reality, game design and human-computer
   interaction.
 interests:
   - Mixed Reality
