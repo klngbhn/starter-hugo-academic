@@ -1,7 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-summary: A BMBF-funded project.
+summary: "BMBF: Interaktive Systeme in virtuellen und realen Räumen – Innovative
+  Technologien für die digitale Gesellschaft, Start: 07/2021, End: 06/2024"
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
@@ -9,7 +10,7 @@ url_slides: ""
 title: "GOETHE LIVE 3D: Gemeinsam im hybriden Museum"
 subtitle: Immersive Museumserlebnisse für lokale und nicht-lokale Besuchsgruppen
 tags:
-  - Deep Learning
+  - Mixed Reality
 links:
   - icon: twitter
     icon_pack: fab
