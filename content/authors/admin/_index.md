@@ -27,6 +27,8 @@ social:
 organizations:
   - name: Hamburg University of Applied Sciences
     url: https://www.haw-hamburg.de/
+  - name: Curvature Games GmbH
+    url: https://www.curvaturegames.com
 education:
   courses:
     - course: PhD in Human-Computer Interaction
