@@ -84,7 +84,7 @@ item:
   date_start: "2017-03-01"
   description: ""
   organization: IEEE Virtual Reality, Los Angeles, California
-  organization_url: https://nextrealitycontest.de/
+  organization_url: https://www.daad.de/
   title: Scholarship within the DAAD congress travel program
   url: ""
 - certificate_url: ""
@@ -92,7 +92,7 @@ item:
   date_start: "2018-08-01"
   description: ""
   organization: ACM SIGGRAPH, Vancouver, Canada
-  organization_url: https://nextrealitycontest.de/
+  organization_url: https://www.daad.de/
   title: Scholarship within the DAAD congress travel program
   url: ""
 - certificate_url: ""
@@ -100,8 +100,16 @@ item:
   date_start: "2017-02-01"
   description: ""
   organization: University of Central Florida, Orlando, Florida
-  organization_url: https://nextrealitycontest.de/
+  organization_url: https://www.daad.de/
   title: Fellowship within the DAAD FITweltweit program
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2015-01-01"
+  description: ""
+  organization: InnoGames, Hamburg, Germany
+  organization_url: https://igjam.eu/
+  title: 3rd Prize Global Game Jam
   url: ""
 
 design:
