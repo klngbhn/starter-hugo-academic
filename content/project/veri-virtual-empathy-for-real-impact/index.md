@@ -1,6 +1,7 @@
 ---
 title: "VERI: Virtual Empathy for Real Impact"
 date: 2021-11-19T09:24:29.063Z
+summary: "BWFGB Hamburg, Start: 08/2021, End: 07/2022"
 draft: false
 featured: false
 image:
