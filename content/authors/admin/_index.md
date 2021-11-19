@@ -1,6 +1,6 @@
 ---
 role: Professor for Media Informatics
-avatar_filename: foto-eike-2021.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include mixed reality, game design and human-computer
   interaction.
 interests:
@@ -13,16 +13,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/k_lngbhn
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.de/citations?user=b6TgtEcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/klngbhn/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eike-langbehn-777b35134/
 organizations:
   - name: Hamburg University of Applied Sciences
     url: https://www.haw-hamburg.de/
