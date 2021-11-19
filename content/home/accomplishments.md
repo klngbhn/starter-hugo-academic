@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2015-01-10"
+  date_start: "2015-10-01"
   description: ""
   organization: Eurographics Symposium on Virtual Environments (ICAT-EGVE), Kyoto, Japan
   organization_url: http://www.ic-at.org/2015/
@@ -33,27 +33,27 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2015-01-10"
+  date_start: "2015-10-01"
   description: ""
   organization: Eurographics Symposium on Virtual Environments (ICAT-EGVE), Kyoto, Japan
   organization_url: http://www.ic-at.org/2015/
   title: Best Poster Award 
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2016-10-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: ACM Symposium on Spatial User Interaction (SUI), Tokyo, Japan
+  organization_url: https://sui.acm.org/2016/sigmr.vrsj.org/SUI2016/
+  title: Honorable Mention for Best Poster Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-07-01"
+  description: ""
+  organization: Deutsches Institut für Virtual Reality (DIVR), Gelsenkirchen, Germany
+  organization_url: https://divr.de/award/
+  title: Best Concept Award
   url: ""
 
 design:
