@@ -25,11 +25,19 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2015-01-01"
+  date_start: "2015-01-10"
   description: ""
   organization: Eurographics Symposium on Virtual Environments (ICAT-EGVE), Kyoto, Japan
   organization_url: http://www.ic-at.org/2015/
   title: Best Poster Audience Award 
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2015-01-10"
+  description: ""
+  organization: Eurographics Symposium on Virtual Environments (ICAT-EGVE), Kyoto, Japan
+  organization_url: http://www.ic-at.org/2015/
+  title: Best Poster Award 
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
